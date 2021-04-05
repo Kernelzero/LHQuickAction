@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LHQuickAction_Tests' do
+  pod 'LHQuickAction', :path => '../'
+  
+  
+end
