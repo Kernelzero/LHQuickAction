@@ -1,0 +1,16 @@
+PODS:
+  - LHQuickAction (0.1.0)
+
+DEPENDENCIES:
+  - LHQuickAction (from `../`)
+
+EXTERNAL SOURCES:
+  LHQuickAction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHQuickAction: cbed5a0d2cb232fa2576c16bf3a3c739c084629f
+
+PODFILE CHECKSUM: ce48795d041df2bf854ec57b3cc86feef6d786bf
+
+COCOAPODS: 1.10.1
